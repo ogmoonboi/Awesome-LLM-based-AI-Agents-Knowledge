@@ -81,14 +81,14 @@ We welcome your **comments, contributions, and discussions** to enhance this kno
         - ...
 
 ### 🔹 Contributions & Best Practices
-- [Mind Network's Contributions](/9-mind-network.md)
-- [Integrations & Best Practices](/10-integrations-and-best-practices.md)
+- [ ] [Mind Network's Contributions](/9-mind-network.md)
+- [ ] [Integrations & Best Practices](/10-integrations-and-best-practices.md)
     - Integrations with Other Technologies
     - Best Practices for AI Agents
 
 ### 🔹 Research & Compliance Considerations
-- [Future Research Directions](/11-research-directions.md)
-- [Ethical Considerations](/12-1-ethic.md)
+- [x] [Future Research Directions](/11-research-directions.md)
+- [ ] [Ethical Considerations](/12-1-ethic.md)
 
 ---
 

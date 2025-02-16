@@ -1,8 +1,9 @@
-# 📚 Awesome LLM-Based AI Agents Knowledge
+# 📚 Awesome LLM-Based AI Agents Knowledge Sharing
 
-Welcome to the **Awesome LLM-Based AI Agents Knowledge** repository! 🚀  
+Welcome to the **Awesome LLM-Based AI Agents Knowledge Sharing** repository! 🚀  
 
-This repository aims to serve as a comprehensive tutorial on **LLM-based AI agents**. It compiles insights from the **Mind Network team** and community, focusing on agentic AI systems, **blockchain**, and **Fully Homomorphic Encryption (FHE)**.  
+This repository aims to serve as a comprehensive tutorial on **LLM-based AI agents**. LLM-Based AI Agents already walked into our lifes and will make significat impact to future business, via single-agent and multi-agents, in both web2 and web3. 
+The repo compiles insights from the **Mind Network team** and its community, focusing on agentic AI systems, **blockchain**, and **Fully Homomorphic Encryption (FHE)**.  
 
 We welcome your **comments, contributions, and discussions** to enhance this knowledge base.  
 
@@ -11,67 +12,83 @@ We welcome your **comments, contributions, and discussions** to enhance this kno
 ## 📖 Table of Contents
 
 ### 🔹 Introduction
-- [Definition](/1-definition.md) of LLM-Based AI Agents
-- [History and Evolution](/2-history.md) of LLM-Based AI Agents
+- [x] [Definition](/1-definition.md) of LLM-Based AI Agents
+- [x] [History and Evolution](/2-history.md) of LLM-Based AI Agents
 
 ### 🔹 Applications & Use Cases
-- [Real-World Applications](/3-applications-and-use-cases.md)
-    - [Web2 Use Cases](/3-1-web3-use-cases.md)
-    - [Web3 Use Cases](/3-2-web3-use-cases.md)
+- [x] [Real-World Applications](/3-applications-and-use-cases.md)
+    - [x] [Web2 Use Cases](/3-1-web2-use-cases.md)
+    - [x] [Web3 Use Cases](/3-2-web3-use-cases.md)
+    - [x] [FHE+Web3+Agents Use Cases](/3-2-web3-use-cases.md)
 
 ### 🔹 Core Concepts
-- [Key Concepts](/4-concept.md) in LLM-Based AI Agents
-- [Design Patterns](/5-design-patterns.md)
-- [Technical Architecture](/6-architecture.md)
+- [x] [Key Concepts](/4-concept.md) in LLM-Based AI Agents
+- [x] [Design Patterns](/5-design-patterns.md)
+- [x] [Technical Architecture](/6-architecture.md)
+- [x] [Agentic World](/7-agentic-world.md)
 
 ### 🔹 Building Blocks
-- [Fundamental Components](/7-building-block.md)
-    - **[Programming Frameworks](/7-1-framework.md)**
+- [x] [Fundamental Components](/8-building-block.md)
+    - [x] [Programming Frameworks](/8-1-framework.md)
         - LangChain & LangGraph
         - AutoGen
-    - **[LLM Providers](/7-2-llms-providers.md)** 
+        - ...
+    - [x] [LLM Providers](/8-2-llms-providers.md)
         - OpenAI
         - Anthropic
         - Google
         - DeepSeek
-    - **[Identity & Authentication](/7-3-identity.md)** 
+        - ...
+    - [x] [Identity & Authentication](/8-3-identity.md)
         - Agent Ownership
         - Agent Wallets
         - Verification & Certification
         - Payment Authentication & Receiving
-    - **[Communication](/7-4-communication.md)** 
+        - ...
+    - [x] [Communication](/8-4-communication.md)
         - Exchangeable Communication
         - Continuous Computation After Communication
-    - **Conversations & Knowledge** 
-        - [Conversational Models](/7-5-conversation.md)
-        - [Knowledge Management](/7-6-knowledge.md)
+        - ...
+    - [x] Conversations & Knowledge
+        - [Conversational Models](/8-5-conversation.md)
+        - [Knowledge Management](/8-6-knowledge.md)
             - Vector Databases
             - Knowledge Graphs
             - Retrieval-Augmented Generation (RAG)
-    - **[State Management](/7-7-state.md)** 
-    - **[Planning & Reasoning](/7-8-planning.md)** 
+            - ...
+    - [x] [State Management](/8-7-state.md)
+        - Memory 
+        - Contextualization
+        - ...
+    - [x] [Planning & Reasoning](/8-8-planning.md) 
         - Chain of Thought (CoT)
-    - **[Agent Actions](/7-9-actions.md)** 
+        - ...
+    - [x] [Agent Actions](/8-9-actions.md)
         - ReAct
         - Searching
         - AI Coding Agents
-    - **[Decision-Making](/7-10-decisioning.md)** 
+        - ...
+    - [x] [Decision-Making](/8-10-decisioning.md)
         - Consensus Models
-    - **Deployment & Security**
-        - [Deployment Strategies](/7-11-deployment.md)
-        - [Security Measures](/7-12-security.md)
-    - **[Decentralization & Blockchain](/7-12-decentralization.md)** 
+        - Multi-Agent Collaboration
+        - Reflection
+        - ...
+    - [x] Deployment & Security
+        - [Deployment Strategies](/8-11-deployment.md)
+        - [Security Measures](/8-12-security.md)
+    - [x] [Decentralization & Blockchain](/8-12-decentralization.md)
         - Blockchain-Enabled AI Agents
+        - ...
 
 ### 🔹 Contributions & Best Practices
-- [Mind Network's Contributions](/8-mind-network.md)
-- [Integrations & Best Practices](/9-integrations-and-best-practices.md)
+- [Mind Network's Contributions](/9-mind-network.md)
+- [Integrations & Best Practices](/10-integrations-and-best-practices.md)
     - Integrations with Other Technologies
     - Best Practices for AI Agents
 
 ### 🔹 Research & Compliance Considerations
-- [Future Research Directions](/10-research-directions.md)
-- [Ethical Considerations](/11-1-ethic.md)
+- [Future Research Directions](/11-research-directions.md)
+- [Ethical Considerations](/12-1-ethic.md)
 
 ---
 
